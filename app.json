@@ -20,7 +20,7 @@
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#0F0F1A",
-        "foregroundImage": "./assets/adaptive-icon.png"
+        "foregroundImage": "./assets/android-icon-foreground.png"
       },
       "permissions": []
     },
